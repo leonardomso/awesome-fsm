@@ -1,40 +1,38 @@
-
-# Awesome Finite StateMachines / Statecharts
+# Awesome Finite State Machines
 
 A curated list of awesome finite state machines and statecharts libraries, software and resources. The idea of this list is group nice quality content about finite state machines and statecharts. 
 
 Any comments, suggestions? Please, open an issue. We love PRs, so if you have any good content that you think is a nice fit for this repository, please open a PR. 
 
-## Content
+## Contents
 
-- **[Libraries](#libraries)**
-- **[Articles](#articles)**
-- **[Videos](#videos)**
-- **[Podcasts](#podcasts)**
-- **[Ebooks](#ebooks)**
-- **[Cheatsheets](#cheatsheets)**
-- **[Twitter](#twitter)**
+- [Libraries](#libraries)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Podcasts](#podcasts)
+- [Ebooks](#ebooks)
 
 ## Libraries
 
 ### JavaScript
 
-* [XState](https://xstate.js.org/)
-* [Robot](https://thisrobot.life/)
-* [React Automata](https://github.com/MicheleBertoli/react-automata)
+* [XState](https://github.com/davidkpiano/xstate)
 * [JavaScript State Machine](https://github.com/jakesgordon/javascript-state-machine)
-* [Stent](https://github.com/krasimir/stent)
-* [kingly](https://github.com/brucou/kingly)
-* [state](https://github.com/steelbreeze/state)
-* [machina](https://github.com/ifandelse/machina.js)
-* [mood](https://github.com/bredele/mood)
+* [Machina](https://github.com/ifandelse/machina.js)
+* [React Automata](https://github.com/MicheleBertoli/react-automata)
+* [Robot](https://github.com/matthewp/robot)
 * [Stately](https://github.com/fschaefer/Stately.js)
-* [maquinaria](https://github.com/tomas2387/maquinaria)
-* [State Machine](https://github.com/davestewart/javascript-state-machine)
-* [nanostate](https://github.com/choojs/nanostate)
+* [Stent](https://github.com/krasimir/stent)
 * [fsm-as-promised](https://github.com/vstirbu/fsm-as-promised)
 * [redux-machine](https://github.com/mheiber/redux-machine)
+* [State Machine](https://github.com/davestewart/javascript-state-machine)
 * [redux-dsm](https://github.com/ericelliott/redux-dsm)
+* [nanostate](https://github.com/choojs/nanostate)
+* [kingly](https://github.com/brucou/kingly)
+* [state](https://github.com/steelbreeze/state)
+* [finity](https://github.com/nickuraltsev/finity)
+* [mood](https://github.com/bredele/mood)
+* [maquinaria](https://github.com/tomas2387/maquinaria)
 
 ## Contributing
 
