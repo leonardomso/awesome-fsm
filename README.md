@@ -34,6 +34,21 @@ Any comments, suggestions? Please, open an issue. We love PRs, so if you have an
 * [mood](https://github.com/bredele/mood)
 * [maquinaria](https://github.com/tomas2387/maquinaria)
 
+### Java
+
+* [squirrel-foundation](https://github.com/hekailiang/squirrel)
+* [Spring Statemachine](https://github.com/spring-projects/spring-statemachine)
+* [stateless4j](https://github.com/stateless4j/stateless4j)
+* [EasyFlow](https://github.com/Beh01der/EasyFlow)
+* [StatefulJ](https://github.com/statefulj/statefulj)
+* [Easy States](https://github.com/j-easy/easy-states)
+* [JState](https://github.com/UnquietCode/JState)
+* [Engine](https://github.com/doridori/Engine)
+* [Fettle](https://github.com/thehiflyer/Fettle)
+* [Yatomata](https://github.com/camelot-framework/yatomata)
+* [stateful](https://github.com/zevada/stateful)
+* [state-machine](https://github.com/davidmoten/state-machine)
+
 ## Contributing
 
 Your contributions are welcome! If you have any content that can contribute to our list, please open a PR.
