@@ -49,6 +49,22 @@ Any comments, suggestions? Please, open an issue. We love PRs, so if you have an
 * [stateful](https://github.com/zevada/stateful)
 * [state-machine](https://github.com/davidmoten/state-machine)
 
+### Python
+
+* [transitions](https://github.com/pytransitions/transitions)
+* [django-fsm](https://github.com/viewflow/django-fsm)
+* [automat](https://github.com/glyph/automat)
+* [state_machine](https://github.com/jtushman/state_machine)
+* [xworkflows](https://github.com/rbarrois/xworkflows)
+* [django-states2](https://github.com/vikingco/django-states2)
+* [python-statemachine](https://github.com/fgmacedo/python-statemachine)
+* [machinist](https://github.com/ScatterHQ/machinist)
+* [fluidity](https://github.com/nsi-iff/fluidity)
+* [automaton](https://github.com/openstack/automaton)
+* [pysm](https://github.com/pgularski/pysm)
+* [declarative-fsm](https://github.com/thomasquintana/declarative-fsm)
+* [automaton](https://github.com/nazavode/automaton)
+
 ## Contributing
 
 Your contributions are welcome! If you have any content that can contribute to our list, please open a PR.
