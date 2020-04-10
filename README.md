@@ -80,6 +80,20 @@ Any comments, suggestions? Please, open an issue. We love PRs, so if you have an
 * [motion-state-machine](https://github.com/opyh/motion-state-machine)
 * [aquam](https://github.com/emancu/aquam)
 
+### Go
+
+* [fsm](https://github.com/looplab/fsm)
+* [transition](https://github.com/qor/transition)
+* [stateless](https://github.com/qmuntal/stateless)
+* [fsm](https://github.com/ryanfaerman/fsm)
+* [stateful](https://github.com/bykof/stateful)
+* [ws-machine](https://github.com/aglyzov/ws-machine)
+* [fsm](https://github.com/dyrkin/fsm)
+* [statemachine-go](https://github.com/Gurpartap/statemachine-go)
+* [go-sm](https://github.com/calebwin/go-sm)
+* [go-fsm](https://github.com/theckman/go-fsm)
+* [go-fsm](https://github.com/igorrius/go-fsm)
+
 ## Contributing
 
 Your contributions are welcome! If you have any content that can contribute to our list, please open a PR.
