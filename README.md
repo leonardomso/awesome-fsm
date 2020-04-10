@@ -65,6 +65,21 @@ Any comments, suggestions? Please, open an issue. We love PRs, so if you have an
 * [declarative-fsm](https://github.com/thomasquintana/declarative-fsm)
 * [automaton](https://github.com/nazavode/automaton)
 
+### Ruby
+
+* [aasm](https://github.com/aasm/aasm)
+* [state_machine](https://github.com/pluginaweek/state_machine)
+* [statesman](https://github.com/gocardless/statesman)
+* [finite_machine](https://github.com/piotrmurach/finite_machine)
+* [state_machines](https://github.com/state-machines/state_machines)
+* [transitions](https://github.com/troessner/transitions)
+* [stateful_enum](https://github.com/amatsuda/stateful_enum)
+* [micromachine](https://github.com/soveran/micromachine)
+* [workflow](https://github.com/ryan-allen/workflow)
+* [stately](https://github.com/rtwomey/stately)
+* [motion-state-machine](https://github.com/opyh/motion-state-machine)
+* [aquam](https://github.com/emancu/aquam)
+
 ## Contributing
 
 Your contributions are welcome! If you have any content that can contribute to our list, please open a PR.
