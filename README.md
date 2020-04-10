@@ -14,11 +14,27 @@ Any comments, suggestions? Please, open an issue. We love PRs, so if you have an
 
 ## Contents
 
+- [Introduction](#introduction)
+    - [Further Reading](#further-reading)
 - [Libraries](#libraries)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Ebooks](#ebooks)
+
+## Introduction
+
+<p align="center">
+  <img width="400" src="./assets/traffic-light-state-machine.svg" alt="traffic light finite state machine example">
+</p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+Curabitur lacinia a odio eu ultricies. Donec a nisl id nisl feugiat ultricies. Nunc dui purus, ultricies sit amet volutpat non, consectetur sit amet lectus. Proin velit libero, laoreet sit amet dui non, tristique molestie quam. 
+
+### Further Reading
+
+- [Finite-state Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
 
 ## Libraries
 
