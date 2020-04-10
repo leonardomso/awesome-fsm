@@ -1,4 +1,12 @@
-# Awesome Finite State Machines
+<p align="center">
+  <br>
+  <img width="400" src="./assets/robot-awesome.svg" alt="logo of awesome-fsm repository">
+  <br>
+  <br>
+</p>
+
+
+## Awesome Finite State Machines
 
 A curated list of awesome finite state machines and statecharts libraries, software and resources. The idea of this list is group nice quality content about finite state machines and statecharts. 
 
