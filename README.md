@@ -25,7 +25,7 @@ Any comments, suggestions? Please, open an issue. We love PRs, so if you have an
 ## Introduction
 
 <p align="center">
-  <img width="400" src="./assets/traffic-light-state-machine.svg" alt="traffic light finite state machine example">
+  <img width="400" src="./assets/traffic-light-state-machine-example.png" alt="traffic light finite state machine example">
 </p>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
