@@ -8,9 +8,9 @@
 
 ## Awesome Finite State Machines
 
-A curated list of awesome finite state machines and statecharts libraries, software and resources. The idea of this list is group nice quality content about finite state machines and statecharts. 
+A curated list of awesome resources related to finite state machines and statecharts. The idea of this repository is to group a lot of nice content related to state machines and statecharts, articles, videos, books, talks, etc.
 
-Any comments, suggestions? Please, open an issue. We love PRs, so if you have any good content that you think is a nice fit for this repository, please open a PR. 
+Any comments or suggestions to this repository, please open an issue. If you have any good content that's related to state machines and statecharts, please open a PR.
 
 ## Contents
 
