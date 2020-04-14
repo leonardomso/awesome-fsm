@@ -5,7 +5,6 @@
   <br>
 </p>
 
-
 ## Awesome Finite State Machines
 
 A curated list of awesome resources related to finite state machines and statecharts. The idea of this repository is to group a lot of nice content related to state machines and statecharts, articles, videos, books, talks, etc.
@@ -15,8 +14,18 @@ Any comments or suggestions to this repository, please open an issue. If you hav
 ## Contents
 
 - [Introduction](#introduction)
-    - [Further Reading](#further-reading)
+- [Concepts](#concepts)
+	- [Mealy Machines](#mealy-machine)
+	- [Moore Machines](#moore-machine)
+	- [Deterministic Finite Automatons (DFAs)](#deterministic-finite-automatons(dfas))
+	- [Non-deterministic Finite Automatons (NFAs)](#non-deterministic-finite-automatons(nfas))
+- [Statecharts](#statecharts)
 - [Libraries](#libraries)
+	 - [JavaScript](#javascript)
+	 - [Java](#java)
+	 - [Python](#python)
+	 - [Ruby](#ruby)
+	 - [Go](#go)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
@@ -32,9 +41,35 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ip
 
 Curabitur lacinia a odio eu ultricies. Donec a nisl id nisl feugiat ultricies. Nunc dui purus, ultricies sit amet volutpat non, consectetur sit amet lectus. Proin velit libero, laoreet sit amet dui non, tristique molestie quam. 
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
 ### Further Reading
 
 - [Finite-state Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+
+## Concepts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+Curabitur lacinia a odio eu ultricies. Donec a nisl id nisl feugiat ultricies. Nunc dui purus, ultricies sit amet volutpat non, consectetur sit amet lectus. Proin velit libero, laoreet sit amet dui non, tristique molestie quam. 
+
+### Mealy Machine
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+### Moore Machine
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+### Deterministic Finite Automatons (DFAs)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+### Non-deterministic Finite Automatons (NFAs)
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+## Statecharts
 
 ## Libraries
 
@@ -117,6 +152,14 @@ Curabitur lacinia a odio eu ultricies. Donec a nisl id nisl feugiat ultricies. N
 * [go-sm](https://github.com/calebwin/go-sm)
 * [go-fsm](https://github.com/theckman/go-fsm)
 * [go-fsm](https://github.com/igorrius/go-fsm)
+
+## Articles
+
+## Videos
+
+## Podcasts
+
+## Ebooks
 
 ## Contributing
 
