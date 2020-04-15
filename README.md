@@ -37,15 +37,25 @@ Any comments or suggestions to this repository, please open an issue. If you hav
   <img width="400" src="./assets/traffic-light-state-machine-example.png" alt="traffic light finite state machine example">
 </p>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
 
-Curabitur lacinia a odio eu ultricies. Donec a nisl id nisl feugiat ultricies. Nunc dui purus, ultricies sit amet volutpat non, consectetur sit amet lectus. Proin velit libero, laoreet sit amet dui non, tristique molestie quam. 
+Finite state machines are a computation model, a concept where we can have a machine with a finite number of states. Here's how a finite state machine works: 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+1. It has a finite number of states.
+2. To change from one state to another, it responds to an input.
+3. Inputs trigger changes from one state to another, it is called transition. 
+
+The concept of finite state machines can be observed in any aspect of society nowadays. In development, it can be used to resolve almost any problem related to state logic. 
+
+By having a finite number of states, the state logic of you app will get very clear. You can easily understand how your state logic should look, the inputs that you're going to need and the transitions that you'll have. It reduces drastically the chances to have state logic bugs, and your app become more maintainable and bug-free.
 
 ### Further Reading
 
-- [Finite-state Machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+- [Finite-state_machine](https://en.wikipedia.org/wiki/Finite-state_machine)
+- [Theory of Computation - Finite State Machines](https://stackabuse.com/theory-of-computation-finite-state-machines/)
+- [Finite State Machines](https://www.i-programmer.info/babbages-bag/223-finite-state-machines.html)
+- [Elements of Robotics - Finite State Machines](https://link.springer.com/chapter/10.1007/978-3-319-62533-1_4)
+- [Finite State Machines](http://www.inf.ufsc.br/~joao.dovicchi/pos-ed/pos/exerc/machines2.pdf)
+- [The Rise Of The State Machines](https://www.smashingmagazine.com/2018/01/rise-state-machines/)
 
 ## Concepts
 
