@@ -37,16 +37,15 @@ Any comments or suggestions to this repository, please open an issue. If you hav
   <img width="400" src="./assets/traffic-light-state-machine-example.png" alt="traffic light finite state machine example">
 </p>
 
+Finite state machines are a computation model, it consists of a machine with a finite number of states and a few transitions between states. To change from one state to another, the transition expects an input, given a specific input the machine will transition to another state. To be more simple, this is how a finite state machine works in 3 steps: 
 
-Finite state machines are a computation model, a concept where we can have a machine with a finite number of states. Here's how a finite state machine works: 
+1. A finite state machine has a finite number of states.
+2. To change from one state to another, it responds to a condition, called input.
+3. The action of changing from one state to another is called transition. 
 
-1. It has a finite number of states.
-2. To change from one state to another, it responds to an input.
-3. Inputs trigger changes from one state to another, it is called transition. 
+Let’s take as an example of a traffic light. A traffic light can have only 3 states: green, red and yellow. To change from one state to another, we will use it as an input integer representing seconds. When the input is 60, the machine will transition to another state. You can see this example at the beginning of the section. 
 
-The concept of finite state machines can be observed in any aspect of society nowadays. In development, it can be used to resolve almost any problem related to state logic. 
-
-By having a finite number of states, the state logic of you app will get very clear. You can easily understand how your state logic should look, the inputs that you're going to need and the transitions that you'll have. It reduces drastically the chances to have state logic bugs, and your app become more maintainable and bug-free.
+We can observe finite state machines not only inside the software development but in our real world as well. You can think about almost anything and use finite state machines for it. By having a finite number of states, it reduces drastically the possibility of having unexpected side-effects in your application, your application will get more consistent, well-written and maintainable. 
 
 ### Further Reading
 
