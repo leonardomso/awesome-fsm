@@ -15,10 +15,10 @@ Any comments or suggestions to this repository, please open an issue. If you hav
 
 - [Introduction](#introduction)
 - [Concepts](#concepts)
-	- [Mealy Machines](#mealy-machine)
-	- [Moore Machines](#moore-machine)
 	- [Deterministic Finite Automatons (DFAs)](#deterministic-finite-automatons(dfas))
 	- [Non-deterministic Finite Automatons (NFAs)](#non-deterministic-finite-automatons(nfas))
+	- [Mealy Machines](#mealy-machine)
+	- [Moore Machines](#moore-machine)
 - [Statecharts](#statecharts)
 - [Libraries](#libraries)
 	 - [JavaScript](#javascript)
@@ -58,25 +58,69 @@ We can observe finite state machines not only inside the software development bu
 
 ## Concepts
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+In the finite state machine model, we have a few different concepts that it’s very important to learn about. We can classify finite state machines by two types: deterministic state automaton and non-deterministic state automaton. 
 
-Curabitur lacinia a odio eu ultricies. Donec a nisl id nisl feugiat ultricies. Nunc dui purus, ultricies sit amet volutpat non, consectetur sit amet lectus. Proin velit libero, laoreet sit amet dui non, tristique molestie quam. 
+If you’re wondering, automaton is the plural of automata. Finite state machines are also know as finite state automata or finite state automaton.
 
-### Mealy Machine
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
-
-### Moore Machine
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+Within the finite state machine model, we have two types of finite state machines that generate output: Mealy state machine and Moore state machine.
 
 ### Deterministic Finite Automatons (DFAs)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
 
+#### Further Reading
+
+- [Deterministic finite automaton](https://en.wikipedia.org/wiki/Deterministic_finite_automaton)
+- [Deterministic Finite Automata (DFAs)](https://lambda.uta.edu/cse5317/notes/node8.html)
+- [Deterministic Finite Automata (DFAs)](https://www.cs.uic.edu/~ajayk/c301/CS301-UIC/Lecture-02-DFA.pdf)
+- [Deterministic Finite Automata (DFA)](https://www.cs.wcupa.edu/rkline/fcs/dfas.html)
+- [Deterministic Finite Automaton](https://www.tutorialspoint.com/automata_theory/deterministic_finite_automaton.htm)
+- [Deterministic Finite Automata](http://www.cse.chalmers.se/~coquand/AUTOMATA/o2.pdf)
+- [Applications of Deterministic Finite Automata](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-dfa.pdf)
+- [Deterministic Finite Automata (DFA)](https://cseweb.ucsd.edu/classes/sp15/cse191-e/lec1.html)
+
 ### Non-deterministic Finite Automatons (NFAs)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+#### Further Reading
+
+- [Nondeterministic finite automaton](https://en.wikipedia.org/wiki/Nondeterministic_finite_automaton)
+- [Non-deterministic Finite Automata](http://cs.ru.nl/~jrot/TnA2017/lecture3.pdf)
+- [Nondeterministic Finite Automata](https://courses.engr.illinois.edu/cs374/sp2017/notes/models/NFAnotes.pdf)
+- [Non-deterministic Finite Automaton](https://www.tutorialspoint.com/automata_theory/non_deterministic_finite_automaton.htm)
+- [Nondeterministic finite automata](https://cs.uwaterloo.ca/~watrous/CS360/Lectures/03.pdf)
+- [Nondeterministic Finite Automata](http://people.seas.harvard.edu/~cs125/fall16/lec12.pdf)
+- [Non-deterministic Finite State Machines](http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/notes/Comp3.pdf)
+- [Nondeterministic Finite Automata](https://people.cs.clemson.edu/~goddard/texts/theoryOfComputation/3a.pdf)
+- [NFA (Non-Deterministic finite automata)](https://www.javatpoint.com/non-deterministic-finite-automata)
+
+### Mealy Machine
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+#### Further Reading
+
+- [Mealy machine](https://en.wikipedia.org/wiki/Mealy_machine)
+- [Mealy Machine](https://www.javatpoint.com/automata-mealy-machine)
+- [Mealy machine](https://ncatlab.org/nlab/show/Mealy+machine)
+- [Mealy machine](https://xlinux.nist.gov/dads/HTML/mealyMachine.html)
+- [Mealy state machine](https://www.slideshare.net/arifsiyal7/mealy-state-machine)
+- [Inferring Mealy Machines](https://link.springer.com/chapter/10.1007/978-3-642-05089-3_14)
+- [Moore and Mealy Machines](https://www.tutorialspoint.com/automata_theory/moore_and_mealy_machines.htm)
+- [Mealy and Moore Machines in TOC](https://www.geeksforgeeks.org/mealy-and-moore-machines-in-toc/)
+
+### Moore Machine
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+
+#### Further Reading
+
+- [Moore machine](https://en.wikipedia.org/wiki/Moore_machine)
+- [Moore Machine](https://www.javatpoint.com/automata-moore-machine)
+- [Moore Machine](https://xlinux.nist.gov/dads/HTML/mooreMachine.html)
+- [Moore Finite State Machine](https://www.electronics-tutorial.net/finite-state-machines/State-Machine-Fundamentals/Moore-Finite-State-Machine/)
+- [Moore and Mealy Machine Design Procedure](http://www2.elo.utfsm.cl/~lsb/elo211/aplicaciones/katz/chapter8/chapter08.doc4.html)
 
 ## Statecharts
 
