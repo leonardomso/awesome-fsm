@@ -26,9 +26,6 @@ Any comments or suggestions to this repository, please open an issue. If you hav
 	 - [Python](#python)
 	 - [Ruby](#ruby)
 	 - [Go](#go)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Ebooks](#ebooks)
 
 ## Introduction
 
@@ -124,6 +121,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ip
 
 ## Statecharts
 
+### Further Reading
+
+- [Welcome to Statecharts](https://statecharts.github.io/)
+- [Statecharts: A Visual Formalism for Complex Systems](http://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf)
+- [Statecharts](https://help.anylogic.com/index.jsp?topic=%2Fcom.anylogic.help%2Fhtml%2Fstatecharts%2FStatecharts.html)
+- [The Statecharts Perspective](http://homepage.cs.uiowa.edu/~fleck/181content/statecharts.pdf)
+
 ## Libraries
 
 ### JavaScript
@@ -205,12 +209,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ip
 * [go-sm](https://github.com/calebwin/go-sm)
 * [go-fsm](https://github.com/theckman/go-fsm)
 * [go-fsm](https://github.com/igorrius/go-fsm)
-
-## Videos
-
-## Podcasts
-
-## Ebooks
 
 ## Contributing
 
