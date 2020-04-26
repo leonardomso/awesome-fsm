@@ -26,7 +26,6 @@ Any comments or suggestions to this repository, please open an issue. If you hav
 	 - [Python](#python)
 	 - [Ruby](#ruby)
 	 - [Go](#go)
-- [Articles](#articles)
 - [Videos](#videos)
 - [Podcasts](#podcasts)
 - [Ebooks](#ebooks)
@@ -64,9 +63,10 @@ If you’re wondering, automaton is the plural of automata. Finite state machine
 
 Within the finite state machine model, we have two types of finite state machines that generate output: Mealy state machine and Moore state machine.
 
-### Deterministic Finite Automatons (DFAs)
+### Deterministic Finite Automaton (DFAs)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+A deterministic finite automaton finite state machine with a finite number of inputs symbols. For each input symbol, it will determine which state the machine will move.
+A deterministic finite automaton machine can only be in one state at a time, and transition to one state at a time.
 
 #### Further Reading
 
@@ -79,9 +79,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ip
 - [Applications of Deterministic Finite Automata](https://web.cs.ucdavis.edu/~rogaway/classes/120/spring13/eric-dfa.pdf)
 - [Deterministic Finite Automata (DFA)](https://cseweb.ucsd.edu/classes/sp15/cse191-e/lec1.html)
 
-### Non-deterministic Finite Automatons (NFAs)
+### Non-deterministic Finite Automaton (NFAs)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+A nondeterministic finite automaton has a finite number of states and a finite number of input symbols. In a nondeterministic finite automaton, for each state and input symbol, it can be one or more output states. NFAs can be in one or more states at once.
 
 #### Further Reading
 
@@ -205,8 +205,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ip
 * [go-sm](https://github.com/calebwin/go-sm)
 * [go-fsm](https://github.com/theckman/go-fsm)
 * [go-fsm](https://github.com/igorrius/go-fsm)
-
-## Articles
 
 ## Videos
 
