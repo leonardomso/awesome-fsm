@@ -1,0 +1,27 @@
+{
+  "name": "awesome-fsm",
+  "version": "1.0.0",
+  "description": "A curated list of awesome resources related to finite state machines and statecharts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardomso/awesome-fsm.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "Finite State Machines",
+    "Statecharts"
+  ],
+  "author": {
+    "name": "Leonardo Maldonado",
+    "url": "https://github.com/leonardomso"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonardomso/awesome-fsm/issues"
+  },
+  "homepage": "https://github.com/leonardomso/awesome-fsm#readme"
+}
