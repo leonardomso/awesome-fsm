@@ -67,7 +67,7 @@ In the finite state machine model, we have a few different concepts that it’s 
 
 A deterministic state automaton is a finite state machine with a  finite number of states and input symbols. A transition is defined in every state for every input symbol. Each input symbol will determine which state the machine will move. A deterministic finite automaton machine can only be in one state at a time, and transition to one state at a time.
 
-A nondeterministic finite automaton has a finite number of states and a finite number of input symbols. In a nondeterministic finite automaton, for each state and input symbol, it can be one or more output states. NFAs can be in one or more states at once.
+A non-deterministic finite automaton has a finite number of states and a finite number of input symbols. In a nondeterministic finite automaton, for each state and input symbol, it can be one or more output states. NFAs can be in one or more states at once.
 
 If you’re wondering, an automaton is the plural of automata. Finite state machines are also known as finite-state automata or finite-state automaton.
 
