@@ -31,10 +31,6 @@ Any comments or suggestions about nice quality content that should be in this re
 
 ## Introduction
 
-<p align="center">
-  <img width="400" src="./assets/traffic-light-state-machine-example.png" alt="traffic light finite state machine example">
-</p>
-
 You might have not heard the term "finite state machines" before, but humanity has been using this concept every day for a long time. Not only in the programming world, but in real life too, we have a lot of systems that rely upon the concept of finite state machines.
 
 Finite state machines are a computation model, it consists of a machine with a finite number of states. A finite state machine has a finite number of events, to move from one state to another we have something called transitions. These transitions are triggered after a specific event, each transition expects an input, after its triggered, it will change to a specific state depending on the current state and the event.
@@ -49,6 +45,10 @@ We can simplify a finite state machine in 4 parts:
 Finite state machines can be used to simulate sequential logic, let's take as an example of a traffic light. 
 
 We know that a traffic light has only 3 possible states: green, yellow, and red. To change from one state to another, we will use it as an input integer representing seconds. When the input is 60, the machine will trigger an event and transition to another state depending on the current state and the event, in our case, the seconds.
+
+<p align="center">
+  <img width="400" src="./assets/traffic-light-state-machine-example.png" alt="traffic light finite state machine example">
+</p>
 
 We can observe finite state machines not only inside the software development but in our real world as well. You can think about almost anything and use finite state machines for it. By having a finite number of states, it reduces drastically the possibility of having unexpected side-effects in your application, your application will get more consistent, well-written, and maintainable.
 
