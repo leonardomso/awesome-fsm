@@ -63,11 +63,13 @@ We can observe finite state machines not only inside the software development bu
 
 ## Concepts
 
-In the finite state machine model, we have a few different concepts that it’s very important to learn about. We can classify finite state machines by two types: deterministic state automaton and non-deterministic state automaton. 
+In the finite state machine model, we have a few different concepts that it’s very important to learn about. There are two types of finite state machines: deterministic state automaton and non-deterministic state automaton. There are a few differences between those two types. 
 
-If you’re wondering, automaton is the plural of automata. Finite state machines are also know as finite state automata or finite state automaton.
+A deterministic state automaton is a finite state machine with a  finite number of states and input symbols. A transition is defined in every state for every input symbol. Each input symbol will determine which state the machine will move. A deterministic finite automaton machine can only be in one state at a time, and transition to one state at a time.
 
-Within the finite state machine model, we have two types of finite state machines that generate output: Mealy state machine and Moore state machine.
+A nondeterministic finite automaton has a finite number of states and a finite number of input symbols. In a nondeterministic finite automaton, for each state and input symbol, it can be one or more output states. NFAs can be in one or more states at once.
+
+If you’re wondering, an automaton is the plural of automata. Finite state machines are also known as finite-state automata or finite-state automaton.
 
 ### Deterministic Finite Automaton (DFAs)
 
