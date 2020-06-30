@@ -120,7 +120,7 @@ A mealy machine is a machine where the output value is determined by the input a
 
 ### Moore Machine
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+A Moore machine is a machine where the output is determined by only its current state. The output depends only on the present state and it's the same output every time the machine enters that state.
 
 #### Further Reading
 
