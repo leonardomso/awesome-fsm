@@ -105,7 +105,7 @@ A nondeterministic finite automaton has a finite number of states and a finite n
 
 ### Mealy Machine
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse at felis ipsum. Quisque fermentum tellus magna, sed aliquet mi venenatis at. Ut in placerat nisi. Etiam placerat id ligula et sagittis. Phasellus ullamcorper tristique euismod. 
+A mealy machine is a machine where the output value is determined by the input and the current state. For each input and state in a Mealy machine, one transition is possible.
 
 #### Further Reading
 
