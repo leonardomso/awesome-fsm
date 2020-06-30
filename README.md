@@ -132,6 +132,12 @@ A Moore machine is a machine where the output is determined by only its current 
 
 ## Statecharts
 
+Sometimes we need something more sophisticated and complex, and that's when a finite state machine cannot help us. 
+
+Statecharts are an extension of traditional finite state machines, the main difference of statecharts is that it can have a hierarchical state, states can contain nested state inside them. The reason for this is simple, not all applications in the world can be described as flat multi numbers of states, sometimes we need to have nested states.
+
+Statecharts also bring us a few extra features such as actions, entry and exit actions, guard conditions, deferred events, etc.
+
 ### Further Reading
 
 - [Welcome to Statecharts](https://statecharts.github.io/)
