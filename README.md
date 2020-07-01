@@ -150,6 +150,7 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 ### JavaScript
 
 * [XState](https://github.com/davidkpiano/xstate)
+* [jssm](https://github.com/StoneCypher/jssm) 
 * [JavaScript State Machine](https://github.com/jakesgordon/javascript-state-machine)
 * [Machina](https://github.com/ifandelse/machina.js)
 * [React Automata](https://github.com/MicheleBertoli/react-automata)
