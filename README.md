@@ -166,6 +166,7 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 * [finity](https://github.com/nickuraltsev/finity)
 * [mood](https://github.com/bredele/mood)
 * [maquinaria](https://github.com/tomas2387/maquinaria)
+* [Statebot](https://github.com/shuckster/statebot)
 
 ### Java
 
@@ -226,6 +227,10 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 * [go-sm](https://github.com/calebwin/go-sm)
 * [go-fsm](https://github.com/theckman/go-fsm)
 * [go-fsm](https://github.com/igorrius/go-fsm)
+
+### Shell
+
+* [Statebot-sh](https://github.com/shuckster/statebot-sh)
 
 ## Contributing
 
