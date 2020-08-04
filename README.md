@@ -28,6 +28,7 @@ Any comments or suggestions about nice quality content that should be in this re
 	 - [Python](#python)
 	 - [Ruby](#ruby)
 	 - [Go](#go)
+	 - [C++](#c++)
 
 ## Introduction
 
@@ -232,6 +233,13 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 ### Shell
 
 * [Statebot-sh](https://github.com/shuckster/statebot-sh)
+
+### C++
+
+* [hsm](https://github.com/erikzenker/hsm)
+* [msm](https://www.boost.org/doc/libs/1_73_0/libs/msm/doc/HTML/index.html)
+* [sml](https://boost-experimental.github.io/sml/index.html)
+* [Statechart](https://www.boost.org/doc/libs/1_73_0/libs/statechart/doc/index.html)
 
 ## Contributing
 
