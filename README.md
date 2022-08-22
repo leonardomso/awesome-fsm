@@ -241,6 +241,10 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 * [sml](https://boost-experimental.github.io/sml/index.html)
 * [Statechart](https://www.boost.org/doc/libs/1_73_0/libs/statechart/doc/index.html)
 
+### Swift
+
+* [hsm](https://github.com/sergebouts/hsm)
+
 ## Contributing
 
 Your contributions are welcome! If you have any content that can contribute to our list, please open a PR.
