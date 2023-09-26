@@ -188,6 +188,7 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 ### Python
 
 * [transitions](https://github.com/pytransitions/transitions)
+* [RAFCON](https://github.com/DLR-RM/RAFCON)
 * [django-fsm](https://github.com/viewflow/django-fsm)
 * [automat](https://github.com/glyph/automat)
 * [state_machine](https://github.com/jtushman/state_machine)
