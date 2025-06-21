@@ -25,6 +25,7 @@ Any comments or suggestions about nice quality content that should be in this re
 - [Libraries](#libraries)
 	 - [JavaScript](#javascript)
 	 - [Java](#java)
+         - [Kotlin](#kotlin)
 	 - [Python](#python)
 	 - [Ruby](#ruby)
 	 - [Go](#go)
@@ -184,6 +185,9 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 * [Yatomata](https://github.com/camelot-framework/yatomata)
 * [stateful](https://github.com/zevada/stateful)
 * [state-machine](https://github.com/davidmoten/state-machine)
+
+### Kotlin
+* [KStateMachine](https://github.com/KStateMachine/kstatemachine)
 
 ### Python
 
