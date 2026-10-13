@@ -26,6 +26,7 @@ Any comments or suggestions about nice quality content that should be in this re
 	 - [JavaScript](#javascript)
 	 - [Java](#java)
          - [Kotlin](#kotlin)
+	 - [Clojure](#clojure)
 	 - [Python](#python)
 	 - [Ruby](#ruby)
 	 - [Go](#go)
@@ -188,6 +189,12 @@ Statecharts also bring us a few extra features such as actions, entry and exit a
 
 ### Kotlin
 * [KStateMachine](https://github.com/KStateMachine/kstatemachine)
+
+### Clojure
+
+* [statecharts](https://github.com/fulcrologic/statecharts)
+* [clj-statecharts](https://github.com/lucywang000/clj-statecharts)
+* [statechart-viz](https://github.com/sheluchin/statechart-viz)
 
 ### Python
 
